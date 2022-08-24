@@ -1,0 +1,213 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    }
+.dude{
+    width: 80%;
+    margin: 0 auto;
+}
+.pap{
+    background: #556aa5;
+}
+
+dl{
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em 0.1em;
+    font-size: 1.2em;
+    padding: 2px 10px;
+    margin: 2px 2px;
+    text-transform: uppercase;
+    color: black;
+    }
+footer{
+    background: black;
+    color: beige;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 1px;
+    height: 5cm;
+    text-align: center;
+    font-size: larger;
+
+    }
+table th, td{
+    width:50%;
+    height:300%;
+    border:1px solid black;
+    padding:0.5em;
+    text-align:left;
+    }
+html,body{
+    margin-left: 0;
+    margin-right: 0;
+}
+body{
+    background: pink;
+    color: black;
+    height: 1000px;
+    padding: 10px;   
+}   
+ul{
+    margin: 20px;
+    margin-right: 10px;
+} 
+.green{
+    background-color:greenyellow;
+    text-decoration-line: underline;
+    border:solid 1px  brown;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    margin:0.5em
+}
+.blue{
+    background-color: blueviolet;
+    text-align:center;
+    text-decoration: underline;
+    border:solid 1px black;
+    margin: 0.5em;
+    text-transform: uppercase;
+}
+.red{
+    background-color: orangered;
+    text-align: center;
+    text-decoration: underline;
+    border:solid  1px grey;
+    margin: 10px 10px 30px;
+}
+p{
+text-overflow: wrap within space;
+padding: 0.5em 1em ;
+font-style: oblique;
+}
+span{
+    font-size: small;
+}
+article{
+    background-color: black;
+    margin-left: 1px;
+    margin-right: 1px;
+    height: 4cm;
+}
+.baba{
+    padding: 10px 10px 5px;
+}
+.osa{
+padding-bottom: 30px;
+padding-top: 5px;
+}
+.purple{
+    font-style: italic;
+    text-transform: uppercase;
+}
+.yellow{
+    padding:10px 10px 10px;
+    font-style: normal;
+    border: opx pink;
+    font-size: large;  color: purple;
+
+}
+.grey{
+    text-size-adjust:normal ;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+.few{
+    margin:20px ;
+    font-size: x-large;
+    font-weight: bold;
+    font-stretch: expanded;
+    text-align: center;
+}
+.bracket{
+   padding: 20px 10px 30px; 
+   text-shadow: 2px 3px 4px;
+   font-size: larger;
+}
+.white{
+   float: right;
+   clear: both;
+   margin-left: 0px;
+}
+.black{
+   float: right;
+   clear: both;
+}
+.grower{
+   float: right;
+   clear: both;
+}
+a{
+    color: aqua;
+}
+a:hover{
+    color: purple;
+}
+#Education{
+    background-color: aquamarine;
+    padding-bottom: 1.5cm; 
+    background-image: url("../img/download (1).jfif");
+    height: 10cm;
+    text-align: center;
+}
+dl{
+    color: green;
+    font-size: xx-large;
+}
+li{
+    display: block;
+}
+#Experience{
+    padding-bottom: 1.5cm;
+}
+#Occupation{
+    padding-bottom: 1.5cm;
+}
+.apple{
+    width: 50%;
+    margin: 600px 0;
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 600px;
+    box-shadow: 0px 0px 10px 1px rgb(165, 165, 165);
+    min-height: 200%;
+    margin-bottom: 10px;
+}
+.apple input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    width: 10cm;
+    height: 0.5cm;
+}
+.apple input:focus{
+    border: 1px solid #000;
+    outline: 0;
+}
+.apple textarea{
+    margin-right: 20px;
+    width: 12cm;
+    height: 8cm;
+}
+.apple textarea:focus{
+    border: 1px solid #000;
+    outline: 0; 
+}
+
+button{
+    width: 4cm;
+    height: 1cm;
+    background-color: aqua;
+    color: aliceblue;
+    font-size: 100%;
+}
+button:hover{
+    background-color: blueviolet;
+}
